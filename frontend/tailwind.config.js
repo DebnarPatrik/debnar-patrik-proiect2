@@ -20,9 +20,9 @@ export default {
         }
       },
       fontFamily: {
-        heading: ['Playfair Display', 'serif'],
-        body: ['Lato', 'sans-serif'],
-        accent: ['Cinzel', 'serif'],
+        heading: ['"Lora"', 'serif'],
+        body: ['"DM Sans"', 'sans-serif'],
+        mono: ['"IBM Plex Mono"', 'monospace'],
       },
     },
   },
